@@ -1,2 +1,5 @@
 This is shell scripting
 Welcome to TR
+Welcome to DevOps
+Welcome to CG
+
